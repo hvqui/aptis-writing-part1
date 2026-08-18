@@ -182,38 +182,38 @@
             ]
         },
         {
-            "id": "travel-club",
-            "name": "TRAVEL CLUB",
+            "id": "sport-club",
+            "name": "SPORT CLUB",
             "questions": [
                 {
                     "id": 1,
-                    "question": "1. Where do you like to go on holiday?",
-                    "translation": "(Bạn thích đi đâu vào kỳ nghỉ?)",
-                    "sampleAnswer": "I love visiting coastal towns and quiet beaches."
+                    "question": "What’s the weather like today?",
+                    "translation": "(Thời tiết hôm nay như thế nào?)",
+                    "sampleAnswer": "The weather is sunny and warm."
                 },
                 {
                     "id": 2,
-                    "question": "2. How do you usually travel?",
-                    "translation": "(Bạn thường di chuyển bằng phương tiện gì?)",
-                    "sampleAnswer": "I usually travel by airplane or high-speed train."
+                    "question": "How are you?",
+                    "translation": "(Bạn khỏe không?)",
+                    "sampleAnswer": "I am fine, thank you."
                 },
                 {
                     "id": 3,
-                    "question": "3. Who do you usually travel with?",
-                    "translation": "(Bạn thường đi du lịch với ai?)",
-                    "sampleAnswer": "I often travel with my family or close friends."
+                    "question": "What’s your favorite hobby?",
+                    "translation": "(Sở thích yêu thích của bạn là gì?)",
+                    "sampleAnswer": "My favorite hobby is writing stories."
                 },
                 {
                     "id": 4,
-                    "question": "4. What is your favorite place to visit?",
-                    "translation": "(Địa điểm yêu thích nhất của bạn là gì?)",
-                    "sampleAnswer": "My favorite place is Da Lat City."
+                    "question": "How do you get to work?",
+                    "translation": "(Bạn đi làm bằng phương tiện gì?)",
+                    "sampleAnswer": "I usually get to work by bus."
                 },
                 {
                     "id": 5,
-                    "question": "5. What weather do you like best when travelling?",
-                    "translation": "(Kiểu thời tiết nào bạn thích nhất khi đi du lịch?)",
-                    "sampleAnswer": "I prefer cool and sunny weather."
+                    "question": "What do you like to do in the evening?",
+                    "translation": "(Bạn thích làm gì vào buổi tối?)",
+                    "sampleAnswer": "In the evening, I enjoy reading books."
                 }
             ]
         }
