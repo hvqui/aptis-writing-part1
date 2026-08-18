@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ôn Luyện Aptis Writing (Part 1)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <!-- Header chứa tiêu đề và Đồng hồ đếm thời gian ở góc phải -->
+        <div class="header-bar">
+            <h1 id="appTitle">APTIS WRITING PART 1</h1>
+            <div class="timer-box" id="timer">⏱️ Thời gian: 00:00</div>
+        </div>
+
+        <!-- Thanh công cụ chọn Chủ đề (Dropdown List) -->
+        <div class="controls-bar">
+            <div class="select-group">
+                <label for="clubSelect">Chủ đề (Club):</label>
+                <select id="clubSelect"></select>
+            </div>
+            <!-- <div class="part-badge" id="appPart">PART 1</div> -->
+        </div>
+
+        <div class="instruction" id="appInstruction">
+            <strong>Yêu cầu:</strong> Trả lời các câu hỏi sau bằng tiếng Anh (thường từ 2 - 10 từ mỗi câu). Sau khi hoàn
+            thành, nhấn nút "Kiểm tra" để xem đánh giá và đáp án mẫu.
+        </div>
+
+        <form id="quizForm">
+            <div class="btn-container">
+                <button type="button" id="checkBtn">Kiểm Tra</button>
+                <button type="button" id="resetTimerBtn" class="secondary-btn">Reset</button>
+            </div>
+            <div id="questionsContainer"></div>
+        </form>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
