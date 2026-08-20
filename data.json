@@ -216,6 +216,150 @@
                     "sampleAnswer": "In the evening, I enjoy reading books."
                 }
             ]
+        },
+        {
+            "id": "museum-club",
+            "name": "MUSEUM CLUB",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "1. What’s your favorite hobby?",
+                    "translation": "(Sở thích yêu thích của bạn là gì?)",
+                    "sampleAnswer": "My favorite hobby is reading books."
+                },
+                {
+                    "id": 2,
+                    "question": "2. How do you get to work?",
+                    "translation": "(Bạn đi làm bằng phương tiện gì?)",
+                    "sampleAnswer": "I usually walk to work daily."
+                },
+                {
+                    "id": 3,
+                    "question": "3. What do you like to do in the evening?",
+                    "translation": "(Bạn thích làm gì vào buổi tối?)",
+                    "sampleAnswer": "In the evening, I enjoy reading novels or watching TV."
+                },
+                {
+                    "id": 4,
+                    "question": "4. What kinds of movies do you like?",
+                    "translation": "(Bạn thích thể loại phim nào?)",
+                    "sampleAnswer": "I am really into action and comedy movies."
+                },
+                {
+                    "id": 5,
+                    "question": "5. What’s your favorite food?",
+                    "translation": "(Món ăn yêu thích của bạn là gì?)",
+                    "sampleAnswer": "My favorite food is pizza and noodles."
+                }
+            ]
+        },
+        {
+            "id": "english-club",
+            "name": "ENGLISH CLUB",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "1. What’s the weather like today?",
+                    "translation": "(Thời tiết hôm nay thế nào?)",
+                    "sampleAnswer": "The weather is sunny and warm."
+                },
+                {
+                    "id": 2,
+                    "question": "2. What is your favorite season of the year?",
+                    "translation": "(Mùa yêu thích nhất trong năm của bạn là gì?)",
+                    "sampleAnswer": "I love the cool autumn season."
+                },
+                {
+                    "id": 3,
+                    "question": "3. What do you like to do every morning?",
+                    "translation": "(Bạn thích làm gì vào mỗi buổi sáng?)",
+                    "sampleAnswer": "I enjoy having coffee and reading."
+                },
+                {
+                    "id": 4,
+                    "question": "4. What do you like to do in your free time?",
+                    "translation": "(Bạn thích làm gì vào thời gian rảnh?)",
+                    "sampleAnswer": "I like watching movies or reading books."
+                },
+                {
+                    "id": 5,
+                    "question": "5. What did you do last night?",
+                    "translation": "(Bạn đã làm gì vào tối qua?)",
+                    "sampleAnswer": "I watched a movie and relaxed."
+                }
+            ]
+        },
+        {
+            "id": "technology-club",
+            "name": "TECHNOLOGY CLUB",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "1. Where are you from?",
+                    "translation": "(Bạn đến từ đâu?)",
+                    "sampleAnswer": "I am originally from Vietnam."
+                },
+                {
+                    "id": 2,
+                    "question": "2. What’s the weather like today?",
+                    "translation": "(Thời tiết hôm nay thế nào?)",
+                    "sampleAnswer": "The weather is sunny and warm today."
+                },
+                {
+                    "id": 3,
+                    "question": "3. What do you do in your free time?",
+                    "translation": "(Bạn làm gì vào thời gian rảnh?)",
+                    "sampleAnswer": "I usually read books to unwind in my free time."
+                },
+                {
+                    "id": 4,
+                    "question": "4. What is your first language?",
+                    "translation": "(Tiếng mẹ đẻ của bạn là gì?)",
+                    "sampleAnswer": "My native language is Vietnamese."
+                },
+                {
+                    "id": 5,
+                    "question": "5. Who do you usually go to the movies with?",
+                    "translation": "(Bạn thường đi xem phim với ai?)",
+                    "sampleAnswer": "I usually go with my close friends."
+                }
+            ]
+        },
+        {
+            "id": "art-club",
+            "name": "ART CLUB",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "1. What’s the weather like today?",
+                    "translation": "(Thời tiết hôm nay thế nào?)",
+                    "sampleAnswer": "The weather is sunny and warm."
+                },
+                {
+                    "id": 2,
+                    "question": "2. How are you?",
+                    "translation": "(Hôm nay bạn thế nào?)",
+                    "sampleAnswer": "I am doing well, what about you?"
+                },
+                {
+                    "id": 3,
+                    "question": "3. What’s your favorite hobby?",
+                    "translation": "(Sở thích yêu thích của bạn là gì?)",
+                    "sampleAnswer": "My favorite hobby is writing stories."
+                },
+                {
+                    "id": 4,
+                    "question": "4. How do you get to work?",
+                    "translation": "(Bạn đi làm bằng phương tiện gì?)",
+                    "sampleAnswer": "I usually get to work by bus."
+                },
+                {
+                    "id": 5,
+                    "question": "5. What do you like to do in the evening?",
+                    "translation": "(Bạn thích làm gì vào buổi tối?)",
+                    "sampleAnswer": "In the evening, I enjoy reading books."
+                }
+            ]
         }
     ]
 }
